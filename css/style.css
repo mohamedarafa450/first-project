@@ -922,6 +922,7 @@ a {
 .team-item:hover .team-overlay {
     opacity: 0.5;
     transition: 1s;
+    visibility: visible;
 }
 
 .team-overlay .www {
